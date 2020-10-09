@@ -7,5 +7,5 @@
 - add / change something
 - `git add .`
 - `git commit -m "description"`
-- `git push origin master`
+- `git push origin <nama-peserta>`
 - Make Pull Request
