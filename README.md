@@ -4,7 +4,7 @@
 - `git clone https://github.com/<personal github>/trunojoyo-hacktoberfest`
 - `cd trunojoyo-hacktoberfest`
 - `git checkout -b <nama-peserta>`
-- add / change /remove /imrpove something
+- add / change /remove /improve something
 - `git add .`
 - `git commit -m "description"`
 - `git push origin <nama-peserta>`
